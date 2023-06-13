@@ -30,6 +30,11 @@ _FULLSTACK ENGINEER INTERN_
 ---
 > HONESTY IS THE BEST POLICY.
 
+## EMOTES
+
+[EMOTES](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+
 ## ACCOUNT
 
 [GITHUB](https://github.com/abhay-raj-04)
