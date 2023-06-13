@@ -7,11 +7,9 @@
 <!-- TO DO: add more details about me later -->
 
 
-**Hi, I'm Abhayraj.
-**
+**Hi, I'm Abhayraj.**
 
-_ FULLSTACK ENGINEER INTERN
-_
+_ FULLSTACK ENGINEER INTERN_
 
 
 
@@ -32,7 +30,9 @@ _
 ---
 > HONESTY IS THE BEST POLICY.
 
+## ACCOUNT
 
+[GITHUB](https://github.com/abhay-raj-04)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
