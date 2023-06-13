@@ -6,7 +6,13 @@
 
 <!-- TO DO: add more details about me later -->
 
-Hi, I'm Abhayraj.
+
+**Hi, I'm Abhayraj.
+**
+
+_ FULLSTACK ENGINEER INTERN
+_
+
 
 
 ## DETAILS
@@ -25,6 +31,7 @@ Hi, I'm Abhayraj.
 ## QUOTE
 ---
 > HONESTY IS THE BEST POLICY.
+
 
 
 <picture>
