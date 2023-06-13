@@ -9,7 +9,7 @@
 
 **Hi, I'm Abhayraj.**
 
-_ FULLSTACK ENGINEER INTERN_
+_FULLSTACK ENGINEER INTERN_
 
 
 
@@ -33,6 +33,7 @@ _ FULLSTACK ENGINEER INTERN_
 ## ACCOUNT
 
 [GITHUB](https://github.com/abhay-raj-04)
+[INSTAGRAM](url)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
