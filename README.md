@@ -1,8 +1,7 @@
 
-# ABOUT ME
+
 ## About Me
-### ABOUT ME
-#### ABOUT ME
+
 
 
 <!-- TO DO: add more details about me later -->
@@ -10,7 +9,7 @@
 Hi, I'm Abhayraj.
 
 
-
+## DETAILS
 
 <details>
 <summary>My top THINGS-TO-RANK</summary>
@@ -23,9 +22,10 @@ Hi, I'm Abhayraj.
 
 </details>
 
-
+## QUOTE
 ---
 > HONESTY IS THE BEST POLICY.
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
