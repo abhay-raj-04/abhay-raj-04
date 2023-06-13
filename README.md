@@ -2,6 +2,8 @@
 
 ## About Me
 
+Let's rename \*our-new-project\* to \*our-old-project\*.
+
 
 
 <!-- TO DO: add more details about me later -->
