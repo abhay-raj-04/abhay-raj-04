@@ -11,7 +11,7 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 
 **Hi, I'm Abhayraj.**
 
-_FULLSTACK ENGINEER INTERN_
+_RUST_DEVELOPER_
 
 
 
@@ -34,13 +34,13 @@ _FULLSTACK ENGINEER INTERN_
 
 ## EMOTES
 
-[EMOTES](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+[RUST WORKS](https://github.com/abhay-raj-04/rust)
 
 
 ## ACCOUNT
 
 [GITHUB](https://github.com/abhay-raj-04)
-[INSTAGRAM](url)
+[INSTAGRAM](https://www.instagram.com/abhay_raj_3030/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
